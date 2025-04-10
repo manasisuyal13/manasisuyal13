@@ -1,63 +1,82 @@
-<h1 align="center">Hey there! I'm Manasi 👋</h1>
+<h1 align="center">Hi, I'm <span style="color:#58a6ff;">Manasi Suyal</span> 👋</h1>
 
 <p align="center">
-  B.Tech CSE Student · Python Dev · Data & AI Explorer  
+  💻 B.Tech CSE Student | Python Developer | Data & AI Explorer  
   <br>
-  <em>Learning by building. Breaking things. Rebuilding better.</em>
+  🌱 Turning coffee into code and ideas into reality  
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🧠 Obsessed with real-world Python projects  
-- 📊 Exploring data analysis, automation, and AI  
-- 📷 Into computer vision & OpenCV  
-- 🌱 Currently learning: Machine Learning, Flask, APIs  
-- 🎯 Goal: Build projects that are useful *and* cool
-
----
-
-## 🛠 Tech Stack
-
-```txt
-Languages:    Python | SQL | HTML/CSS (learning)
-Libraries:    Pandas | OpenCV | Tkinter | Matplotlib | Seaborn | NumPy
-Database:     MySQL
-Tools:        VS Code | Git & GitHub | Canva | Jupyter
-```
-
----
-
-## 💼 Featured Projects
-
-| Project                   | Description                                                                 | Tech Used                    |
-|---------------------------|-----------------------------------------------------------------------------|------------------------------|
-| 🛒 Superstore Sales Analysis | Cleaned, visualized, and stored sales data using Python and MySQL           | Pandas, Seaborn, MySQL       |
-| 🎥 Movie Recommender        | Filter movies by genre, rating, and year using Pandas                      | Python, Pandas               |
-| 🎮 Tic Tac Toe (GUI)        | Fun Python game with a GUI and simple AI opponent                          | Python, Tkinter              |
-| 📷 Face Detection App       | Detects faces in images and real-time webcam using Haar cascades           | Python, OpenCV               |
-
-> 📌 Check out my pinned repositories for code and demos!
-
----
-
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manasisuyal13&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasisuyal13&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding-gif"/>
 </p>
 
 ---
 
-## 📬 Let’s Connect
+## 💫 About Me
 
-[![Email](https://img.shields.io/badge/email-manasisuyal13@gmail.com-red?style=flat&logo=gmail)](mailto:manasisuyal2003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manasi%20Suyal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manasi-suyal)
+- 🎓 Final-year CSE student
+- 🧠 Passionate about real-world Python projects
+- 📊 Exploring Data Analysis, OpenCV, and ML
+- 🔧 Always building, always learning
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tkinter-0C234B?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-20639B?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-44B78B?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🛒 Superstore Sales Analysis
+> Cleaned and analyzed retail sales data using Pandas, visualized insights with Seaborn, and loaded it into MySQL.
+
+### 🎥 Movie Recommendation System
+> Filters movies by genre, rating, and release year using Pandas.
+
+### 🎮 Tic Tac Toe (GUI)
+> A simple interactive Python game with a Tkinter interface and basic AI logic.
+
+### 📷 Face Detection App
+> Detects faces in images and webcam using OpenCV's Haar Cascade classifier.
+
+<p align="center">
+  👉 Check my pinned repos for demos and code!
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manasisuyal13&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasisuyal13&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="45%"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:manasisuyal13@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/manasi-suyal" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
 <p align="center">
-  ✨ Always learning. Always building. Let’s create something awesome!
+  ✨ “Learning never exhausts the mind.” — Leonardo da Vinci  
+  <br><br>
+  💖 Thanks for visiting my profile!
 </p>
