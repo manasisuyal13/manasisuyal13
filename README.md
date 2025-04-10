@@ -58,7 +58,7 @@ _Learning. Building. Growing._
 
 ## 🌐 Contact
 
-<p align="center">
+<p align="left">
   <a href="mailto:manasisuyal2003@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ea4335" />
   </a>
@@ -72,8 +72,12 @@ _Learning. Building. Growing._
 
 ## 🌸 Final Note
 
-<p align="center">
-  Thank you for visiting my profile!  
-  <br>  
-  If you scrolled this far — you're awesome ✨  
-</p>
+<blockquote>
+  <p style="font-family: 'Georgia', serif; font-size: 16px;">
+    Thanks for scrolling this far — it means a lot! 💖 <br>
+    If you liked what you saw, feel free to connect. <br>
+    Let’s turn ideas into code, together 🚀
+  </p>
+</blockquote>
+---
+
