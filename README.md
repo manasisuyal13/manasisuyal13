@@ -1,14 +1,9 @@
-<!-- 🌸 HEADER -->
-<h1 align="center">Hi, I'm Manasi 👋</h1>
-<p align="center">
-  B.Tech CSE | Python Developer | Data Enthusiast  
-  <br>
-  Learning. Building. Growing.
-</p>
+# Hi, I'm Manasi 👋  
+**B.Tech CSE** | Python Developer | Data Enthusiast  
+_Learning. Building. Growing._
 
 ---
 
-<!-- ✨ GIF AESTHETIC -->
 <p align="center">
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="300" alt="coding gif" />
 </p>
@@ -27,24 +22,28 @@
 
 ## 🛠️ Tools I Use
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,github,git,vscode" /><br><br>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-44B78B?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tkinter-0C234B?style=for-the-badge&logo=python&logoColor=white"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-44B78B?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tkinter-0C234B?style=flat&logo=python&logoColor=white"/>
 </p>
 
 ---
 
 ## 📌 Projects
 
-| Project                     | What it does                                       | Tools Used              |
-|----------------------------|----------------------------------------------------|-------------------------|
-| 🛒 Superstore Sales Analysis | Cleaned + visualized retail sales, added to MySQL | Python, Pandas, SQL     |
-| 🎥 Movie Recommender (CLI)  | Recommends movies by genre, rating & year         | Python, Pandas          |
-| 🎮 Tic Tac Toe Game         | GUI game with basic AI logic                      | Python, Tkinter         |
-| 📷 Face Detection           | Detects faces using webcam or images              | Python, OpenCV          |
+| 🛠 Project | 📋 Description | 🧰 Tools |
+|-----------|----------------|----------|
+| **Superstore Sales Analysis** 🛒 | Cleaned + visualized retail sales, stored in MySQL | Python, Pandas, SQL |
+| **Movie Recommender (CLI)** 🎥 | Recommends movies by genre, rating & year | Python, Pandas |
+| **Tic Tac Toe Game** 🎮 | GUI game with basic AI logic | Python, Tkinter |
+| **Face Detection** 📷 | Detects faces using webcam or images | Python, OpenCV |
 
 ---
 
@@ -60,12 +59,21 @@
 ## 🌐 Contact
 
 <p align="center">
-  <a href="mailto:manasisuyal2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-manasisuyal13@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/manasi-suyal"><img src="https://img.shields.io/badge/LinkedIn-Manasi%20Suyal-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:manasisuyal2003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ea4335" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/manasi-suyal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
 </p>
 
 ---
 
+## 🌸 Final Note
+
 <p align="center">
-  ☁️ Let’s learn, connect & grow together.
+  Thank you for visiting my profile!  
+  <br>  
+  If you scrolled this far — you're awesome ✨  
 </p>
