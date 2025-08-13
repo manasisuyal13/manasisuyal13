@@ -54,13 +54,17 @@ _Learning. Building. Growing._
 
 <p align="center">
   <a href="https://heyitsmanasi-xo-041303.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Portfolio-Click%20Here-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website"/>
+    <img src="https://img.shields.io/badge/🚀 Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website"/>
   </a>
 </p>
 
-Personal portfolio site showcasing my projects, skills, and journey as a developer.
+<p align="center">
+  My personal portfolio showcasing my <b>projects</b>, <b>skills</b>, and <b>journey as a developer</b>.  
+  Built with <code>HTML</code>, <code>CSS</code>, and <code>JavaScript</code>.
+</p>
 
 ---
+
 
 ## 📌 Projects
 
