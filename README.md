@@ -47,11 +47,22 @@ _Learning. Building. Growing._
 
 ---
 
+## 🌐 Portfolio Website
+
+<p align="center">
+  <a href="https://heyitsmanasi-xo-041303.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-Click%20Here-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website"/>
+  </a>
+</p>
+
+Personal portfolio site showcasing my projects, skills, and journey as a developer.
+
+---
+
 ## 📌 Projects
 
 | 🛠 Project | 📋 Description | 🧰 Tools |
 |-----------|----------------|----------|
-| **[Portfolio Website](https://heyitsmanasi-xo-041303.netlify.app/)** 🌐 | Personal portfolio site showcasing projects and skills | HTML, CSS, JavaScript |
 | **[Tic Tac Toe Game](https://github.com/manasisuyal13/Codsoft/blob/main/task1.py)** 🎮 | GUI game with Minimax and Alpha-Beta pruning | Python, Tkinter |
 | **[Movie Recommendation System](https://github.com/manasisuyal13/Codsoft/blob/main/task2.py)** 🎥 | Recommender using TF-IDF & cosine similarity | Python, Pandas |
 | **[Face Detection System](https://github.com/manasisuyal13/Codsoft/blob/main/task3.py)** 📷 | Real-time face detection using DNN module | Python, OpenCV |
