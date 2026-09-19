@@ -12,7 +12,7 @@ _Learning. Building. Growing._
 
 ## 🧠 About Me
 
-- 🎓 Computer Science graduate 2025
+- 🎓 Computer Science graduate
 - 🐍 I enjoy building Python projects  
 - 📊 I like working with data, visualizations, and clean dashboards  
 - 📚 Currently exploring: SQL, APIs, ML basics  
